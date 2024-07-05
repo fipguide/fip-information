@@ -9,10 +9,6 @@ def find_files(directory, filetype):
                 adoc_files.append(os.path.join(root, file))
     return adoc_files
 
-def read_file_content(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        return file.read()
-
 def create_json_from_adoc(adoc_file):
     with open(adoc_file, 'r', encoding='utf-8') as file:
         value = file.read()
