@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "json-dereference-cli": "^0.1.2"
+  }
+}

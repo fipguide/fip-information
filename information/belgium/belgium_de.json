@@ -1,0 +1,15 @@
+{
+  "name": "Belgien",
+  "insideEu": true,
+  "generalFipGuides": {
+    "$ref": "general/generalFipGuides_de.json#/generalFipGuides"
+  },
+  "generalTravelGuides": {
+    "$ref": "general/generalTravelGuides_de.json#/generalTravelGuides"
+  },
+  "companys": [
+    {
+      "$ref": "sncb/sncb_de.json"
+    }
+  ]
+}

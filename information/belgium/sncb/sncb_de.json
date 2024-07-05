@@ -1,0 +1,7 @@
+{
+  "name": "Nationale Gesellschaft der Belgischen Eisenbahnen",
+  "abbreviation": "SNCB",
+  "generalInformation": {
+    "$ref": "generalInformation_de.json#/generalInformation"
+  }
+}
