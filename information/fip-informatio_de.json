@@ -1,0 +1,7 @@
+{
+  "countries": [
+    {
+      "$ref": "belgium/belgium_de.json"
+    }
+  ]
+}

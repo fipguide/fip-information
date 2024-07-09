@@ -2,26 +2,26 @@ import os
 import json
 
 def find_files(directory, filetype):
-    adoc_files = []
+    md_files = []
     for root, _, files in os.walk(directory):
         for file in files:
             if file.endswith(filetype):
-                adoc_files.append(os.path.join(root, file))
-    return adoc_files
+                md_files.append(os.path.join(root, file))
+    return md_files
 
-def create_json_from_adoc(adoc_file):
-    with open(adoc_file, 'r', encoding='utf-8') as file:
+def create_json_from_md(md_file):
+    with open(md_file, 'r', encoding='utf-8') as file:
         value = file.read()
-    key = os.path.basename(adoc_file).rsplit('_', 1)[0]
+    key = os.path.basename(md_file).rsplit('_', 1)[0]
     json_data = {key: value}
-    json_file_path = adoc_file.replace('.adoc', '.json')
+    json_file_path = md_file.replace('.md', '.json')
 
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
     print(f"Converting: '{json_file_path}'")
 
-def create_adoc_from_json(json_file):
+def create_md_from_json(json_file):
     with open(json_file, 'r', encoding='utf-8') as file:
         json_data = json.load(file)
 
@@ -30,14 +30,14 @@ def create_adoc_from_json(json_file):
         print(f"Skipping:'{json_file}'")
         return
 
-    adoc_file_path = json_file.replace('.json', '.adoc')
+    md_file_path = json_file.replace('.json', '.md')
 
     content = json_data[key]
 
-    if os.path.exists(adoc_file_path):
-        print(f"Converting: '{adoc_file_path}'")
-        with open(adoc_file_path, 'w', encoding='utf-8') as adoc_file:
-            adoc_file.write(str(content))
+    if os.path.exists(md_file_path):
+        print(f"Converting: '{md_file_path}'")
+        with open(md_file_path, 'w', encoding='utf-8') as md_file:
+            md_file.write(str(content))
         print(f"Removing: '{json_file}'")
         os.remove(json_file)
         return
@@ -49,17 +49,17 @@ def create_adoc_from_json(json_file):
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description='Converting adoc to json and vice versa.')
-    parser.add_argument('action', choices=['to-json', 'to-adoc'], help='Converting the files from adoc to json (to-json) or from json to adoc (to-adoc).')
+    parser = argparse.ArgumentParser(description='Converting md to json and vice versa.')
+    parser.add_argument('action', choices=['to-json', 'to-md'], help='Converting the files from md to json (to-json) or from json to md (to-md).')
     parser.add_argument('-d', '--directory', default='.', help='The directory to be searched recursivly.')
     
     args = parser.parse_args()
 
     if args.action == 'to-json':
-        adoc_files = find_files(args.directory, '.adoc')
-        for adoc_file in adoc_files:
-            create_json_from_adoc(adoc_file)
-    elif args.action == 'to-adoc':
+        md_files = find_files(args.directory, '.md')
+        for md_file in md_files:
+            create_json_from_md(md_file)
+    elif args.action == 'to-md':
         json_files = find_files(args.directory, '.json')
         for json_file in json_files:
-            create_adoc_from_json(json_file)
+            create_md_from_json(json_file)
