@@ -1,6 +1,8 @@
 {
   "countries": [
     {
+      "country": "belgium",
+      "region": "westerneurope",
       "$ref": "belgium/belgium_de.json"
     }
   ]

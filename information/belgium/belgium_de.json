@@ -9,6 +9,7 @@
   },
   "companys": [
     {
+      "company": "sncb",
       "$ref": "sncb/sncb_de.json"
     }
   ]
