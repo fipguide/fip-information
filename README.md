@@ -1,6 +1,6 @@
 # fip-information
 
-Information about FIP
+Information about FIP and Countires as base for the frontend
 
 ## Testing
 
