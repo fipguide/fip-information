@@ -4,6 +4,8 @@ Information about FIP
 
 ## Testing
 
+(This is deprecated)
+
 Converting MD to JSON:
 `python3 convert_md_to_json.py to-json --directory information`
 
