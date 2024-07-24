@@ -1,1 +1,1 @@
-to to get into the county (when using this railway)
+how to get into the county (when using this railway)
