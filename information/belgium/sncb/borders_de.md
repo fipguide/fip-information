@@ -1,1 +1,1 @@
-borders to other companys/countrie
+borders to other companys/countries
