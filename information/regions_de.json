@@ -1,52 +1,50 @@
-{
-  "regions": [
-    {
-      "region": "Nordeuropa",
-      "countries": [
-        {
-          "name": "Dänemark",
-          "path": "denmark"
-        }
-      ]
-    },
-    {
-      "region": "Westeuropa",
-      "countries": [
-        {
-          "name": "Belgien",
-          "path": "belgium"
-        },
-        {
-          "name": "Niederlande",
-          "path": "netherlands"
-        }
-      ]
-    },
-    {
-      "region": "Osteuropa",
-      "countries": [
-        {
-          "name": "Polen",
-          "path": "poland"
-        },
-        {
-          "name": "Ungarn",
-          "path": "hungary"
-        }
-      ]
-    },
-    {
-      "region": "Südeuropa",
-      "countries": [
-        {
-          "name": "Italien",
-          "path": "italy"
-        },
-        {
-          "name": "Spanien",
-          "path": "spain"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Nordeuropa",
+    "countries": [
+      {
+        "name": "Dänemark",
+        "path": "denmark"
+      }
+    ]
+  },
+  {
+    "name": "Westeuropa",
+    "countries": [
+      {
+        "name": "Belgien",
+        "path": "belgium"
+      },
+      {
+        "name": "Niederlande",
+        "path": "netherlands"
+      }
+    ]
+  },
+  {
+    "name": "Osteuropa",
+    "countries": [
+      {
+        "name": "Polen",
+        "path": "poland"
+      },
+      {
+        "name": "Ungarn",
+        "path": "hungary"
+      }
+    ]
+  },
+  {
+    "name": "Südeuropa",
+    "countries": [
+      {
+        "name": "Italien",
+        "path": "italy"
+      },
+      {
+        "name": "Spanien",
+        "path": "spain"
+      }
+    ]
+  }
+]
