@@ -1,2 +1,7 @@
-# fip-information
-Information about FIP
+deutsch und englisch
+
+# FIP Information
+
+## How to contribute
+
+## Structure
