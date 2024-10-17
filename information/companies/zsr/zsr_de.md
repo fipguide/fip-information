@@ -54,31 +54,28 @@ Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regional
 
 Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP-Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP-Ticket der MAV-Start benötigt.
 
-## Polen
+### Polen
 Zurzeit werden keine Verbindungen zwischen der Slowakei und Polen angeboten.
 
-## Ukraine
+### Ukraine
 Zurzeit werden keine Verbindungen der ZSSK in die Ukraine angeboten.
 
 ## borders
 
 | Bahngesellschaft | Grenzpunkte                                                         |
 | ---------------- | ------------------------------------------------------------------- |
-| ČD               | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr),
-Nemšová (Gr), Skalica na Slovensku (Gr)                                  |
+| ČD               | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 | GySEV            | Rajka (Gr)                                                     |
-| MÁV              | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (gr)
-                                                      |
+| MÁV              | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr) |
 | ÖBB              | Kittsee (Gr), Marchegg (Gr)                                        |
-| PKP              | Lupkow (Gr), Plaveč (Gr) (Stará Ľubovňa District), Skalité (Gr)
- |
+| PKP              | Lupkow (Gr), Plaveč (Gr), Skalité (Gr) |
 | UZ              | Čierna nad Tisou (Gr)                                         |
 
 ![Bild](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
 ## reducedTickets
 
-Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von 6 bis 11 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 12 zahlen sie den Erwachsenen-Tarif. Sind sie FIP-berechtigt, zahlen sie entsprechend hier auch bei FIP 50 nur die Hälfte des Normalpreises.
+Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In EC-Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In SC-Zügen werden pro Kind immer 1 € in der 2. und 3 € in der 1. Klasse fällig. In IC-Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.
 
 ## specialTariffRules
 
