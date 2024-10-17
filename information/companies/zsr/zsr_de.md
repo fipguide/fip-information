@@ -20,7 +20,7 @@ FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der E
 
 ## summaryOfParticularities
 
-Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets benutzt. Auch ist die 1. Klasse meist nicht viel komfortabler als die 2. Klasse. Anders als in anderen Ländern lohnt sich daher ein Kauf von 1. Klasse Tickets, um hier mehr Platz und Ruhe zu haben, nur bedingt.
+Ausnahmen, usw.
 
 ## trainCategories
 
@@ -76,9 +76,18 @@ Zurzeit werden keine Verbindungen der ZSSK in die Ukraine angeboten.
 ## reducedTickets
 
 Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In EC-Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In SC-Zügen werden pro Kind immer 1 € in der 2. und 3 € in der 1. Klasse fällig. In IC-Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.
+<br/>
+Kinder zwischen 6 und 16 Jahren haben unabhängig der Nationalität die Möglichkeit Freifahrten bei der ZSSK zu bekommen. Dies ist jedoch mit etwas Aufwand verbunden. Dazu wird benötigt:
+- Foto (2x3cm) des Kindes
+- Ausweis des Kindes (wenn kein Ausweis vorhanden, ist auch die Kombination aus der Geburtsurkunde des Kindes sowie der Ausweis des Erziehungsberechtigten möglich)
+Das Ganze muss dann vom Erziehungsberechtigten an einem Ticketschalter vorgelegt werden. Je nach vorhandenem System beim Schalter kann entweder sofort die Registrierung erfolgen oder es dauert bis zu 3 Arbeitstage. Am Ende bekommt man eine Bestätigung, das in den Zügen immer mitzuführen ist. Darüber hinaus wird immer noch ein Ticket benötigt, das über https://www.zssk.sk/ mit Wahl der entsprechenden Reisegruppe (Wichtig: "Entitled for 100% discount" muss ausgewählt sein) für 0 Euro gebucht werden kann. Bei EC-Zügen kommt noch eine Reservierungsgebühr von 1 € oben drauf, bei SC-Zügen 5 €. IC-Züge und RJ-Züge können nicht genutzt werden.
+Ohne den ganzen Aufwand können Kinder zwischen 6 und 16 Jahren mit 50% Rabatt reisen. Damit ist auch die Nutzung von IC-Zügen mit 1 € Gebühr möglich, in SC-Zügen 1 € in der 2. und 3 € in der 1. Klasse. Ein offizielles Dokument mit Foto, Alter, Geburtsdatum und (falls möglich) Geburtsnummer muss mitgeführt werden.
+<br/>
+Für Kinder ab 16 Jahren gibt es keinen Rabatt, jedoch ist es für Studenten unter 26 Jahren und Rentner ab 62 Jahren aus der EU (sowie Studenten aus aller Welt, die in der Slowakei studieren) möglich ebenfalls Freifahrten zu bekommen, ähnlich wie Kinder zwischen 6 und 16 Jahren. Da dies nicht direkt mit FIP zu tun hat, verweisen wir hier auf die Seite https://www.zssk.sk/en/zero-fare/.
+
 
 ## specialTariffRules
 
-Auf Verbindungen von und zum Flughafen Brüssel muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,70 Euro (vgl. https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport). Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen.
+Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
 [^1]: Quelle hinterlegen
