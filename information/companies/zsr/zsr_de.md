@@ -24,51 +24,55 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 
 ## trainCategories
 
-Bei der SNCB / NMBS gibt es folgende Zugkategorien:
-
+Bei der ZSSK gibt es folgende Zugkategorien:
 | Kurzbezeichnung       | Kategorie                                 | Beschreibung                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ICE                   | InterCity Express                         | Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins genutzt werden.                                                                                                      |
-| IC                    | InterCity                                 | Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten                                                                                                                                                                                                                                                                        |
-| L                     | Train local oder Lokale trein             | Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden                                                                                                                                                                                                                                                     |
-| S                     | Train S oder S-Trein                      | Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst. |
-| P                     | Train d’heure de pointe oder Piekuurtrein | Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden.                                                                                                                                                                                                 |
-| E <br> EXP <br> EXTRA | Express                                   | Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste.                                                                                                                                                                                                                                                                                    |
-| T                     | Tourist                                   | Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden.                                                                                                                                                                                                                                                                              |
+| SC                   | SuperCity                         | Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren. Sie sind reservierungspflichtig, in der Reservierung ist ein Aufschlag für diese Zugkategorie enthalten.                                                                                                      |
+| IC                    | InterCity                                 | Fernzüge, die eigenwirtschaftlich von der ZSSK erbracht werden und auf der Ost-West-Verbindung in der Slowakei (teilweise auch von/nach Wien) mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren. Sie sind reservierungspflichtig, in der Reservierung ist ein Aufschlag für diese Zugkategorie enthalten.                                                                                                                                                                                                                                                                                   |
+| EC / RJ                     | EuroCity / RailJet             | Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Sie sind nur in der 1. Klasse reservierungspflichtig. Die RJ-Züge sind RailJet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. Wichtig: RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.                                                                                                                                                                                                                                              |
+| Ex                     | Express                      | Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den IC. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen. Reservierungspflicht nur in der 1. Klasse. |
+| R                     | Rychlik | Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, eine Art Regionalexpress mit sehr unterschiedlichem Wagenmaterial. Reservierungspflicht in der 1. Klasse.   |
+| Os | Osobní vlak                                   | Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Gerade auf Nebenstrecken verkehren sie oft mit veralteten Wagenmaterial. Teilweise werden sie auch als S-Bahnen vermarktet, ohne jedoch wirklich in einem S-Bahn-Takt zu fahren. Reservierungspflicht in der 1. Klasse.                                                                                                                                                                                                                                            |
+| EN                     | EuroNight                                   | EN sind internationale Nachtzüge, bei denen Reservierungspflicht besteht und die Möglichkeit einen Aufpreis für Liege- oder Schlafwagen zu zahlen. Sonst sind sie ähnlich wie die EC.                                                                                                                                                                                                                                                                              |
 
 ## ticketPurchase
 
-Die FIP 50 Tickets können vor Ort in Belgien am Schalter gekauft werden. Diese sind an vielen größeren Bahnhöfen vorhanden (vgl. [belgetrain](https://www.belgiantrain.be/de/station-information)). Auch internationale Bahngesellschaften (z. B. die Deutschen Bahn) können Tickets für die SNCB verkaufen. Am Automat und in der SNCB App können leider keine Tickets mit FIP-Rabatt gebucht werden.
-Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Laut SNCB kann hier ggf. ein Aufschlag von 9 Euro berechnet werden, ob dies auch bei FIP-Tickets der Fall ist, ist uns leider nicht bekannt.
+Die FIP 50 Tickets können vor Ort in der Slowakei am Schalter gekauft werden. Da in der Slowakei noch sehr viel Schalterverkauft stattfindet, finden sich diese oft auch an sehr kleinen Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist. Auch internationale Bahngesellschaften (z. B. die Deutschen Bahn) können Tickets für die ZSSK verkaufen. An Automaten und auf der ZSSK Website bzw. in der App können leider keine Tickets mit FIP-Rabatt gebucht werden.
+Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird.
 
 ## arrivals
 
-### Luxemburg
+### Tschechien
 
-Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Brüssel genutzt werden. In der 2. Klasse reicht hier das FIP-Ticket (Freifahrtschein oder FIP 50) für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP-Ticket für die CFL benötigt.
+Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP-Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
 
-### Deutschland
+### Österreich
 
-Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / Aachen aus genutzt werden, um ins Netz der SNCB zu kommen. Auch ein Regionalzug der SNCB verkehrt zwischen Aachen und Lüttich. In beiden Fällen wird zusätzlich ein Ticket für den deutschen Abschnitt der DB benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar)
+Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Beim InterCity Wien - Košice reicht der FIP-Freifahrtschein für die ZSR für die komplette Strecke aus. Bei allen anderen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. FIP 50 Tickets müssen grenzüberschreitend gekauft werden.
 
-### Niederlande
+### Ungarn
 
-Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der NS benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
+Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP-Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP-Ticket der MAV-Start benötigt.
 
-### Frankreich
+## Polen
+Zurzeit werden keine Verbindungen zwischen der Slowakei und Polen angeboten.
 
-Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCF benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
+## Ukraine
+Zurzeit werden keine Verbindungen der ZSSK in die Ukraine angeboten.
 
 ## borders
 
 | Bahngesellschaft | Grenzpunkte                                                         |
 | ---------------- | ------------------------------------------------------------------- |
-| CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| DB AG            | Aachen Süd (Gr)                                                     |
-| EIL              | Bruxelles (fr)                                                      |
-| NS               | Roosendaal (fr), Visé (fr)                                          |
-| SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
-| THI              | Antwerpen, Bruxelles, Liège                                         |
+| ČD               | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr),
+Nemšová (Gr), Skalica na Slovensku (Gr)                                  |
+| GySEV            | Rajka (Gr)                                                     |
+| MÁV              | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (gr)
+                                                      |
+| ÖBB              | Kittsee (Gr), Marchegg (Gr)                                        |
+| PKP              | Lupkow (Gr), Plaveč (Gr) (Stará Ľubovňa District), Skalité (Gr)
+ |
+| UZ              | Čierna nad Tisou (Gr)                                         |
 
 ![Bild](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
