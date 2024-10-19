@@ -105,7 +105,7 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
   **Reservierung:** ✅  
   **FIP 50 Fahrkarten:** ✅
 - Weitere Möglichkeiten:  
-  Tickets und Reservierungen können auch bei der CD, DB und ÖBB in den Reisezentren gekauft werden.
+  FIP 50 Fahrkarten und Reservierungen können auch bei der CD, DB und ÖBB in den Reisezentren gekauft werden.
 
 ### Im Zug
 
