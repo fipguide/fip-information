@@ -45,7 +45,7 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
-2 € (1. Klasse)
+2 € (1. Klasse)  
 1 € (2. Klasse)
 
 ### 🔽 EuroNight (EN) ⚠️
@@ -64,7 +64,7 @@ Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispi
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
-2 € (1. Klasse)
+2 € (1. Klasse)  
 1 € (2. Klasse)
 
 ### 🔽 Rychlik (R) ⚠️ (1️⃣)
@@ -74,7 +74,7 @@ Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, e
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
-2 € (1. Klasse)
+2 € (1. Klasse)  
 1 € (2. Klasse)
 
 ### 🔽 Osobní vlak (Os) ⚠️ (1️⃣)
@@ -84,7 +84,7 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
-2 € (1. Klasse)
+2 € (1. Klasse)  
 1 € (2. Klasse)
 
 ## Ticket- und Reservierungskauf
