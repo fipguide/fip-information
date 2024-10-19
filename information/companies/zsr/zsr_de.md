@@ -7,9 +7,9 @@
 Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der Slowakei.
 (Bild hier einfügen)
 
-## Besonderheiten
+## Zusammenfassung
 
-- ZSSK akzeptiert FIP Freifahrt und Vergünstigung
+- ZSSK akzeptiert FIP Freifahrt und FIP 50 Tickets
 - Reservierungspflicht in IC und SC Zügen
 - Reservierungspflicht in der 1. Klasse in allen Zügen
 - Angebote für kostenfreie Fahrten für bestimmte Gruppen (Kinder zwischen 6 und 16, Studenten bis 26 und Rentner ab 62 Jahren) unabhängig von FIP
@@ -19,6 +19,8 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
+
+Reservierungspflicht für SC- und IC-Züge. Andere ZSSK Züge erfordern nur eine Reservierung in der 1. Klasse.
 
 ### 🔽 SuperCity (SC) ⚠️
 
@@ -98,9 +100,9 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 - Weitere Möglichkeiten:  
   Reservierungen sind auch über die Websites der [CD](https://www.cd.cz), [DB](https://www.bahn.de) und [ÖBB](https://www.oebb.at) möglich. Zu teilweise abweichenden Preisen. Ausgenommen davon sind die IC und SC Züge.
 
-### Schalter
+### Vor Ort
 
-- Slowakei:  
+- Schalter der ZSR:  
   In der Slowakei gibt es ein umfängreiches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.  
   **Reservierung:** ✅  
   **FIP 50 Fahrkarten:** ✅
