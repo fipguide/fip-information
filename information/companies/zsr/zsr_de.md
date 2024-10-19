@@ -92,9 +92,9 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 ### Online
 
 - [Website der ZSSK](https://www.zssk.sk):  
-  **Reservierung:**  
+  **Reservierung:** ✅  
   In der Verbindungsauskunft kann mit einem FIP-Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist.  
-  **FIP 50 Fahrkarten:** Nicht möglich
+  **FIP 50 Fahrkarten:** ⛔
 - Weitere Möglichkeiten:  
   Reservierungen sind auch über die Websites der [CD](https://www.cd.cz), [DB](https://www.bahn.de) und [ÖBB](https://www.oebb.at) möglich. Zu teilweise abweichenden Preisen. Ausgenommen davon sind die IC und SC Züge.
 
@@ -102,10 +102,8 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 
 - Slowakei:  
   In der Slowakei gibt es ein umfängreiches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.  
-  **Reservierung:**  
-  Ein Reservierungskauf ist hier möglich.  
-  **FIP 50 Fahrkarten:**  
-  Ein FIP 50 Fahrkartenkauf ist möglich.
+  **Reservierung:** ✅  
+  **FIP 50 Fahrkarten:** ✅
 - Weitere Möglichkeiten:  
   Tickets und Reservierungen können auch bei der CD, DB und ÖBB in den Reisezentren gekauft werden.
 
