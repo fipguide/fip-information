@@ -107,19 +107,19 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Anreise und Grenzpunkte
 
-### Luxemburg
+## Luxemburg
 
 Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Brüssel genutzt werden. In der 2. Klasse reicht hier das FIP-Ticket (Freifahrtschein oder FIP 50) für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP-Ticket für die CFL benötigt.
 
-### Deutschland
+## Deutschland
 
 Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / Aachen aus genutzt werden, um ins Netz der SNCB zu kommen. Auch ein Regionalzug der SNCB verkehrt zwischen Aachen und Lüttich. In beiden Fällen wird zusätzlich ein Ticket für den deutschen Abschnitt der DB benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar)
 
-### Niederlande
+## Niederlande
 
 Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der NS benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
 
-### Frankreich
+## Frankreich
 
 Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCF benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
 
