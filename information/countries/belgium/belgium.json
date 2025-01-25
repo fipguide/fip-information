@@ -1,0 +1,5 @@
+{
+  "insideEu": true,
+  "fipCompanys": ["sncb", "eurostar"],
+  "nonFipCompanies": ["European Sleeper"]
+}
